@@ -1,0 +1,62 @@
+
+.rectangle-1 {
+	position: fixed;;
+	display: inline-block;
+	width: 500px;
+	height: 400px;
+	background-color: red;
+}
+
+.rectangle-2 {
+	position: relative;
+	margin-left: 500px;
+	width: 500px;
+	height: 400px;
+	background-color: pink;
+}
+
+#rectangle-3 {
+	text-align: center;
+	position: relative;
+	width: 1000px;
+	height: 400px;
+	background-color: blue;
+}
+
+.square {
+	display: inline-block;
+	position: absolute;
+	margin-left: -100px;
+	margin-top: 100px;
+	width: 200px;
+	height: 200px;
+	background-color: yellow;
+}
+
+.circle-1 {
+	display: inline-block;
+	margin-top: 200px;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: yellow;
+
+}
+
+.circle-2 {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: yellow;
+
+}
+
+.circle-3 {
+	display: inline-block;
+	width: 30px;
+	height: 30px;
+	border-radius: 50%;
+	background-color: yellow;
+
+}

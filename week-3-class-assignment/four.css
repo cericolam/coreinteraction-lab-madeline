@@ -1,0 +1,76 @@
+.rectangle-1 {
+	width: 200px;
+	height: 400px;
+	background-color: purple;
+}
+
+.rectangle-2 {
+	width: 200px;
+	height: 400px;
+	background-color: purple;
+}
+
+.yellow-rec {
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 180px;
+	height: 150px;
+	background-color: yellow
+}
+
+.square-1 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+.square-2 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+.square-3 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+.square-4 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 5px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+.square-5 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+.square-6 {
+	display: inline-block;
+	margin-top: 10px;
+	margin-left: 10px;
+	width: 40px;
+	height: 40px;
+	background-color: brown;
+}
+
+
