@@ -1,0 +1,58 @@
+.shape {
+	position: fixed;
+	width: 200px;
+	height: 200px;
+	background-color: lightBlue;
+}
+
+.square-1 {
+	position: relative;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+
+.square-2 {
+	position: relative;
+	margin-left: 45px;
+	margin-top: -40px;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+
+.square-3 {
+	position: relative;
+	margin-left: 90px;
+	margin-top: -40px;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+
+.square-4 {
+	position: relative;
+	margin-left: 135px;
+	margin-top: -40px;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+
+.square-5 {
+	position: relative;
+	margin-top: 5px;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+
+.square-6 {
+	position: relative;
+	margin-left: 45px;
+	margin-top: -40px;
+	width: 40px;
+	height: 40px;
+	background-color: yellow
+}
+

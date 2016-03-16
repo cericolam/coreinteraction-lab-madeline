@@ -1,0 +1,19 @@
+div {
+	background-color: lightBlue;
+	height: 75px;
+	width: 200px;
+}
+
+.shape-1 {
+}
+
+.shape-2 {
+	position: relative;
+	margin-top: 75px;
+}
+
+.offset-element {
+	position: relative;
+	
+
+}

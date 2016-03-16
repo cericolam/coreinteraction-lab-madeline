@@ -1,0 +1,14 @@
+.square-1 {
+	position: fixed;
+	width: 100px;
+	height: 200px;
+	background-color: lightBlue;
+}
+
+.square-2 {
+	position: relative;
+	margin-left: 100px;
+	width: 100px;
+	height: 200px;
+	background-color: yellow
+}
