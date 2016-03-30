@@ -1,0 +1,35 @@
+.fixed-element {
+  position: fixed;
+  width: 200px;
+  height: 200px;
+  background: cyan;
+}
+
+.offset-element{
+  position: relative;
+  top: 10px;
+  left: 10px;
+  width: 200px;
+  height: 200px;
+  background: green;
+}
+
+.shape-3 {
+  position: absolute;
+  top: 30px;
+  left: 30px;
+  width: 200px;
+  height: 200px;
+  background: blue;
+}
+
+.circle {
+  width: 150px;
+  height: 150px;
+  background: cyan;
+  border-radius: 75px;
+  position: absolute;
+  margin-top: 25px;
+  margin-left: 25px;
+
+}

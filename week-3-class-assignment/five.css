@@ -1,0 +1,79 @@
+.rectangle-1 {
+	float: right;
+	height: 500px;
+	width: 200px;
+	background-color: pink;
+}
+
+.stripe-1 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.stripe-2 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 20px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.stripe-3 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.stripe-4 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.stripe-5 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 20px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.stripe-6 {
+	position: relative;
+	margin-top: 10px;
+	margin-left: 10px;
+	height: 30px;
+	width: 180px;
+	background-color: blue;
+}
+
+.rectangle-2 {
+	position: relative;
+	margin-top: 180px;
+	margin-left: 10px;
+	height: 70px;
+	width: 180px;
+	background-color: green;
+}
+
+.elipse-1 {
+	position: absolute;
+	margin-top: 10%;
+	margin-left: 36%;
+	border-radius: 50%;
+	height: 35px;
+	width: 50px;
+	background-color: blue;
+}

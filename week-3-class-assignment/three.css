@@ -1,0 +1,32 @@
+.square-1 {
+	position: fixed;
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+}
+
+.square-2 {
+	position: absolute;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 200px;
+	height: 200px;
+	background-color: orange;
+}
+
+.square-3 {
+	position: absolute;
+	margin-left: 10px;
+	margin-top: 10px;
+	width: 200px;
+	height: 200px;
+	background-color: blue;
+}
+
+.stripe {
+	position: absolute;
+	height: 65px;
+	width: 200px;
+	margin-top: 65px;
+	background-color: yellow;
+}
